@@ -26,3 +26,9 @@ sit and bend forward_cm
 sit-ups counts
 broad jump_cm
 class : A,B,C,D ( A: best) / stratified
+
+# Source
+https://archive.ics.uci.edu/ml/datasets/Educational+Process+Mining+%28EPM%29%3A+A+Learning+Analytics+Data+Set
+
+# Convergence graph
+
